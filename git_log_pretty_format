@@ -1,0 +1,60 @@
+Opción	Descripción de la salida
+%H
+
+Hash de la confirmación
+
+%h
+
+Hash de la confirmación abreviado
+
+%T
+
+Hash del árbol
+
+%t
+
+Hash del árbol abreviado
+
+%P
+
+Hashes de las confirmaciones padre
+
+%p
+
+Hashes de las confirmaciones padre abreviados
+
+%an
+
+Nombre del autor
+
+%ae
+
+Dirección de correo del autor
+
+%ad
+
+Fecha de autoría (el formato respeta la opción -–date)
+
+%ar
+
+Fecha de autoría, relativa
+
+%cn
+
+Nombre del confirmador
+
+%ce
+
+Dirección de correo del confirmador
+
+%cd
+
+Fecha de confirmación
+
+%cr
+
+Fecha de confirmación, relativa
+
+%s
+
+Asunto
